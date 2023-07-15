@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate web developer from Syria</h3>
 
 <br>
+<br>
+
+<br>
+
 - 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
 
 <h3 align="left">Connect with me:</h3>
