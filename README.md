@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="">Hi 👋, I'm Lawand</h1>
-<h3 align="">A web developer from Syria</h3>
+<h1 align="center">Hi 👋, I'm Lawand</h1>
+<h3 align="center">A web developer from Syria</h3>
 
 
 - 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
