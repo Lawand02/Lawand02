@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Lawand</h1>
-<h3 align="center">A web developer from Syria</h3>
+<h3 align="center">A passionate web developer from Syria</h3>
 
-
+<br>
 - 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
 
 <h3 align="left">Connect with me:</h3>
