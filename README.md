@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Lawand</h1>
-<h3 align="center">A passionate frontend developer from Syria</h3>
+<h1 align="">Hi 👋, I'm Lawand</h1>
+<h3 align="">A passionate frontend developer from Syria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawand02&label=Profile%20views&color=0e75b6&style=flat" alt="lawand02" /> </p>
 
