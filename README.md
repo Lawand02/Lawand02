@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <h1 align="">Hi 👋, I'm Lawand</h1>
 <h3 align="">A passionate frontend developer from Syria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawand02&label=Profile%20views&color=0e75b6&style=flat" alt="lawand02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawand02" alt="lawand02" /></a> </p>
 
 - 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
 
