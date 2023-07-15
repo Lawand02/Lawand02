@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="">Hi 👋, I'm Lawand</h1>
-<h3 align="">A passionate web developer from Syria</h3>
+<h3 align="">A web developer from Syria</h3>
 
 
 - 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
