@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- 📫 How to reach me **lawandyousef98@gmail.com or lawand@acornassociated.org**
+- 📫 How to reach me **lawandyousef98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
