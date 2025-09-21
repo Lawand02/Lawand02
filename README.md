@@ -8,7 +8,7 @@ A passionate Computer Architecture from Kurdistan
 Core Focus : Computer Architecture · VHDL · Digital Logic Design · Embedded Systems
 
 * 🌍  I'm based in Qamishli
-* 🖥️  See my portfolio at [Lawand02](http://lawand02.github.io/)
+* 🖥️  See my portfolio at [Lawand02](http://lawand02.github.io/Lawand-AI/)
 * ✉️  You can contact me at [MrRobot02@duck.com](mailto:MrRobot02@duck.com)
 
 ### Skills
