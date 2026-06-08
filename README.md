@@ -14,7 +14,7 @@ Passionate about building intelligent systems that bridge **hardware, software, 
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
 - 💻 Building full-stack applications with modern technologies
 - 🧠 Interested in AI-powered automation, intelligent systems, and hardware acceleration
-- 🌐 Portfolio: **https://lawand02.github.io/Lawand-AI/**
+- 🌐 Portfolio: **https://lawand02.github.io/AI/en/**
 - ✉️ Contact: **MrRobot02@duck.com**
 
 ---
